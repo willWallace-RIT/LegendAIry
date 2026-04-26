@@ -1,7 +1,7 @@
 
 
 # Barney-for-Ted ML
-
+base codennwrotten with chatgpt
 This project builds a hybrid persona model that answers questions as:
 
 > "What would Barney Stinson do if he were solving Ted Mosby's problem?"
